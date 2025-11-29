@@ -17,9 +17,8 @@ WINGSTOP SHOPEEFOOD DISKON jadi 5K aja Combo 3 Boneless 🤤🍗🐔
 
 ‼️ Klaim voucher nya disini sebelum habis 👇👇
 spf.shopee.co.id/8AOFtTJNuK
-spf.shopee.co.id/8AOFtTJNuK
 
-daget gofood grabfood kode promo go grab shopee food sfood voucher gojek thr shopeepay
+daget gofood grabfood kode promo go grab shopee food sfood voucher gojek thr shopeepay Gary Iskak Raisa 
 `;
 
     // 📸 Upload dua gambar
@@ -37,3 +36,4 @@ daget gofood grabfood kode promo go grab shopee food sfood voucher gojek thr sho
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
