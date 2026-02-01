@@ -13,13 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu
     const textTweet = `
-WINGSTOP SHOPEEFOOD DISKON jadi 5K aja Combo 3 Boneless 🤤🍗🐔
+Shopeefood TOMORO COFFEE Diskon Jadi 16K an aja DAPET 2 gass co 
 
-‼️ Klaim voucher nya disini sebelum habis 👇👇
-https://spf.shopee.co.id/2LR116dvoy
-https://spf.shopee.co.id/2LR116dvoy
+Gass belinya disinii  yaa 👇
+spf.shopee.co.id/8AQHh08Bkf
+spf.shopee.co.id/8AQHh08Bkf
 
-daget gofood grabfood kode promo go grab shopee food sfood gojek thr shopeepay sabtu malming malam minggu pagiii 
+t. gofood grabfood kode promo go grab shopee food sfood voucher 
 `;
 
     // 📸 Upload dua gambar
@@ -37,5 +37,6 @@ daget gofood grabfood kode promo go grab shopee food sfood gojek thr shopeepay s
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
